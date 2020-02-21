@@ -7,5 +7,5 @@
  Mỗi nhân vật có các thông tin cơ bản là: Tên, HP, Level hiện tại, AP đang có. 
 - Đọc các activity của nhân vật từ tập tin **activities.log**. Thực hiện các activity tương ứng và cập nhật trạng thái của các nhân vật. 
 - In ra file **save02.dat** trạng thái mới của các nhân vật, gồm: Tên, HP, Level hiện tại, AP đang có. 
- **The ENGLISH VERSION will be upadted later.**
+ ## *The ENGLISH VERSION will be upadted later.*
  
